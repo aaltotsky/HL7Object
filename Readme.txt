@@ -1,0 +1,1 @@
+This project is an object oriented implementation of the HL7 standards.
